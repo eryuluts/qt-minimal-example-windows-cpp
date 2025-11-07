@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "qapplication": "cpp",
+        "qpushbutton": "cpp",
+        "vector": "cpp",
+        "istream": "cpp",
+        "filesystem": "cpp"
+    }
+}
